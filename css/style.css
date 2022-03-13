@@ -6,7 +6,7 @@
 
 :root {
   --font-primary: 'Poppins', sans-serif;
-  --font-secondary: 'Arvo', serif;
+  --font-secondary: 'Poppins', sans-serif;
   --font-code: 'Roboto', monospace;
   --bg-color: #101328;
   --font-color: #ffffff;
@@ -60,7 +60,7 @@ header .container {
 
 .btn {
   display: inline-block;
-  padding: 1rem 2rem;
+  padding: 0.5rem 1rem;
   background: var(--btn-bg-color);
   color: var(--accent-color);
   font-family: var(--font-secondary);
